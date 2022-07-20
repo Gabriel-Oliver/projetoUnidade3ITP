@@ -1,0 +1,10 @@
+gcc ./main.c \
+./src/funcoes/acoesJogador/ajuda.c \
+./src/funcoes/acoesJogador/executaJogada.c \
+./src/funcoes/acoesJogador/fazerJogada.c \
+./src/funcoes/checagens/posicaoValida.c \
+./src/funcoes/jogo/jogo.c \
+./src/funcoes/lidandoComOMapa/criarMapaMinado.c \
+./src/funcoes/lidandoComOMapa/defineQuantidadeBombasRedor.c \
+./src/funcoes/lidandoComOMapa/destruirMapaMinado.c \
+./src/funcoes/lidandoComOMapa/sortearBombas.c
